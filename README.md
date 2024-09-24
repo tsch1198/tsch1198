@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.role = " Application Development Trainee"
         self.language_spoken = ["de_DE", "en_US"]
 
-    def say_hello(self):
+    def say_hi(self):
         print("Hi! Thanks for stopping by!")
 
 me = SoftwareEngineer()
