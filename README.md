@@ -6,7 +6,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Tobias S."
+        self.name = "Tobias"
         self.role = " Application Development Trainee"
         self.language_spoken = ["de_DE", "en_US"]
 
@@ -34,7 +34,7 @@ me.say_hi()
 
 ### 💡 Interests
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/) [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/) [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 ## 🔥 Highlighted Projects
 
